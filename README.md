@@ -379,6 +379,7 @@ exception propagation from tasks.
 Here follows a small sample of the fine folks developing FBP frameworks and/or
 producing useful content about this approach to programming:
 
+[@stretchyfish](https://github.com/Stretchyfish)
 [@antonmi](https://github.com/antonmi),
 [@apiri](https://github.com/apiri),
 [@artob](https://github.com/artob),
