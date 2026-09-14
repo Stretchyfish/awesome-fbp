@@ -47,6 +47,7 @@ Flow-based programming on [Wikipedia](https://en.wikipedia.org/wiki/Flow-based_p
 
 | Project | Summary | Author | Language | License | Updated | Links |
 | :------ | :------ | :----- | :------- | :------ | :------ | :---- |
+| [Empower](https://github.com/Stretchyfish/empower) | FBP based no code engine, editor, and runtime. | [@stretchyfish](https://github.com/Stretchyfish) | Rust | Apache | 2026 | [:octocat:](https://github.com/Stretchyfish/empower)
 | [Apache NiFi](https://github.com/apache/nifi) | Mature ETL workflow system based on FBP. | [@apache](https://github.com/apache) | Java | Apache | 2026 | [:octocat:](https://github.com/apache/nifi) [:house:](https://nifi.apache.org) |
 | [Async-Flow](https://github.com/artob/async-flow) | Async FBP core abstractions for Tokio. | [@artob](https://github.com/artob) | Rust | Unlicense | 2026 | [:octocat:](https://github.com/artob/async-flow) [📦](https://crates.io/crates/async-flow) [:book:](https://docs.rs/async-flow) [:house:](https://async-flow.rs) |
 | [CppFBP](https://github.com/jpaulm/cppfbp) | Classical FBP implementation for C++. | [@jpaulm](https://github.com/jpaulm) | C, C++ | Artistic | 2021 | [:octocat:](https://github.com/jpaulm/cppfbp) |
