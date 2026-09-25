@@ -1,10 +1,10 @@
 | Project | Summary | Author | Language | License | Updated | Links |
 | :------ | :------ | :----- | :------- | :------ | :------ | :---- |
-| [Empower](https://github.com/Stretchyfish/empower) | FBP based no code engine, editor, and runtime. | [@stretchyfish](https://github.com/Stretchyfish) | Rust | Apache | 2026 | [:octocat:](https://github.com/Stretchyfish/empower)
 | [Apache NiFi](https://github.com/apache/nifi) | Mature ETL workflow system based on FBP. | [@apache](https://github.com/apache) | Java | Apache | 2026 | [:octocat:](https://github.com/apache/nifi) [:house:](https://nifi.apache.org) |
 | [Async-Flow](https://github.com/artob/async-flow) | Async FBP core abstractions for Tokio. | [@artob](https://github.com/artob) | Rust | Unlicense | 2026 | [:octocat:](https://github.com/artob/async-flow) [📦](https://crates.io/crates/async-flow) [:book:](https://docs.rs/async-flow) [:house:](https://async-flow.rs) |
 | [CppFBP](https://github.com/jpaulm/cppfbp) | Classical FBP implementation for C++. | [@jpaulm](https://github.com/jpaulm) | C, C++ | Artistic | 2021 | [:octocat:](https://github.com/jpaulm/cppfbp) |
 | [CsharpFBP](https://github.com/jpaulm/csharpfbp) | Classical FBP implementation for C#. | [@jpaulm](https://github.com/jpaulm) | C# | Artistic | 2021 | [:octocat:](https://github.com/jpaulm/csharpfbp) |
+| [Empower](https://github.com/Stretchyfish/empower) | FBP based no code engine, editor, and runtime. | [@stretchyfish](https://github.com/Stretchyfish) | Rust | Apache | 2026 | [:octocat:](https://github.com/Stretchyfish/empower) |
 | [Flowex](https://github.com/antonmi/flowex) | FBP/ROP framework based on GenStage. | [@antonmi](https://github.com/antonmi) | Elixir | Apache | 2021 | [:octocat:](https://github.com/antonmi/flowex) [📦](https://hex.pm/packages/flowex) [:book:](https://hexdocs.pm/flowex) |
 | [Flows.rs](https://github.com/artob/flows.rs) | Reusable FBP building blocks for Tokio. | [@artob](https://github.com/artob) | Rust | Unlicense | 2026 | [:octocat:](https://github.com/artob/flows.rs) [📦](https://crates.io/crates/flows) [:book:](https://docs.rs/flows) [:house:](https://flows.rs) |
 | [GoFBP](https://github.com/jpaulm/gofbp) | Classical FBP implementation for Go. | [@jpaulm](https://github.com/jpaulm) | Go | Unknown | 2022 | [:octocat:](https://github.com/jpaulm/gofbp) |
