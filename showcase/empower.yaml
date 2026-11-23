@@ -1,0 +1,10 @@
+---
+label: Empower
+summary: FBP based no code engine, editor, and runtime.
+links:
+  - https://github.com/Stretchyfish/empower
+authors:
+  - https://github.com/Stretchyfish
+language: Rust
+license: Apache-2.0
+updated: 2026
